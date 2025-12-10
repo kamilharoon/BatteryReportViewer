@@ -1,6 +1,6 @@
 # Battery Report Viewer by Kamil Haroon
 
-A lightweight Windows tool that triggers the system-generated battery report and displays it in a clean temporary HTML page.
+A lightweight Windows tool that triggers the system-generated battery report and displays it in a Browser.
 
 ## Features
 - Generates Windows battery report using `powercfg /batteryreport`
