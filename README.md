@@ -11,7 +11,7 @@ A lightweight Windows tool that triggers the system-generated battery report and
 ## Usage
 1. Download the EXE from the Releases page
 2. Run it
-3. Your browser opens the temporary battery report
+3. Your browser opens the battery report
 
 ## License
 MIT License
